@@ -40,7 +40,6 @@ public class CategoriesPresenter {
 
             @Override
             public void onFailure(Call<CategoryData> call, Throwable t) {
-
             }
         });
 
